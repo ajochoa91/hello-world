@@ -1,5 +1,5 @@
 # hello-world
-this repository
+
 HI, I'm A.J.
 
 I like sports, food and music.
